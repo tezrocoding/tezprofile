@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Theresia. You can call me Tez
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning computational statistics. Hope my coding can help you!
+- 👀 I’m interested in design and coding!
